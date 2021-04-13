@@ -28,7 +28,7 @@
    ```
 
 ## Overview
-
+//DONE
 1. The folder **src/components** contains a file called `HTMLElement.js`. In this file, create a module that meets the following requirements:
     * Create a class called `HTMLElement`. This class should have a constructor with two parameters: tag and content. Both of these parameters should be stored as instance variables within the class. Instance variables should have the same names as the parameters.
     * Once the HTMLElement class is created, add a function to the class called `render` that can be called publicly. This function should return the HTML element with the content provided.
@@ -69,7 +69,7 @@
     * Refactor the code to use template literals.
     * Refactor the code to use object destructuring.
     * Refactor the code to use array destructuring.
-
+ 
 ## Submission
 
 * In order for a valid submission, all tests must pass when running `npm test`.
